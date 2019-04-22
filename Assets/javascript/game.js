@@ -5,6 +5,14 @@
 		 var numGuesses = 9;
 		 var guessChoices = [];
 
+		 var img = new Image();
+			img.src = "https://www.monsterchildren.com/wp-content/uploads/2018/04/monster-children-psychic-1068x571.jpg";
+			img.onclick = function() {
+				window.location.href = "https://www.monsterchildren.com/wp-content/uploads/2018/04/monster-children-psychic-1068x571.jpg";
+			};
+			
+		 document.body.appendChild(img);
+
 		 document.onkeyup = function(event) {
 
 		 	var userGuess = event.key;
