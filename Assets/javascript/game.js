@@ -8,9 +8,9 @@
 		 var img = new Image();
 			img.src = "https://www.monsterchildren.com/wp-content/uploads/2018/04/monster-children-psychic-1068x571.jpg";
 			img.onclick = function() {
-				window.location.href = "https://www.monsterchildren.com/wp-content/uploads/2018/04/monster-children-psychic-1068x571.jpg";
+				window.location.href = "https://aeldenburg001.github.io/Psychic-Game/";
 			};
-			
+
 		 document.body.appendChild(img);
 
 		 document.onkeyup = function(event) {
