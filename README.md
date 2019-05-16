@@ -2,6 +2,8 @@
 
 A game where the computer randomly picks a letter, and the user has to guess which letter the computer chose.
 
+Live link: https://aeldenburg001.github.io/Psychic-Game/
+
 How To Play:
 
 Overview: In this assignment, you'll create one of two possible computer games: Word Guess or Psychic. These apps will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
